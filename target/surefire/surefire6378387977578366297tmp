@@ -1,0 +1,5 @@
+#surefire
+#Sat Dec 10 20:30:03 EET 2016
+user.dir=/home/tsenzuk/workspace/cucumber_selenium
+localRepository=/home/tsenzuk/.m2/repository
+basedir=/home/tsenzuk/workspace/cucumber_selenium
